@@ -1,0 +1,7 @@
+# Our dumb static site generator
+
+  * Should be able to create a static site
+    * Inputs would be
+      * Layout and pages
+      * Partials
+
